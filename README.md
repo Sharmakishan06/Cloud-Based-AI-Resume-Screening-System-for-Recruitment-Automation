@@ -1,0 +1,2 @@
+# Cloud-Based-AI-Resume-Screening-System-for-Recruitment-Automation
+Developed a Cloud-Based AI Resume Screening System using Python Flask, HTML/CSS/JavaScript, and Render.com. The platform automates resume screening using TF-IDF and cosine similarity, ranking candidates based on job relevance, skills, and experience. Features include bulk resume upload, automated shortlisting, filtering, and recruiter dashboard.
